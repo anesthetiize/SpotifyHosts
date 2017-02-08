@@ -12,9 +12,9 @@ How to use it:
 
 1. (Set Execution-Policy) Open a powershell window as administrator and type the following: 
 
-  Set-ExecutionPolicy unrestricted
+                       Set-ExecutionPolicy unrestricted
 
-  Hit enter, and type "A" and hit enter again. Now you can close the powershell window.
+  Hit enter, type "A" (Without the quotation marks) and hit enter again. Now you can close the powershell window.
 
 2. Download the "Remove-Spotify-Ads.ps1" File to your computer.
 3. Right click on it, and select "Run with powershell".
