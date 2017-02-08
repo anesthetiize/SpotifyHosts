@@ -36,7 +36,7 @@ curl $url -OutFile C:\hosts.txt
 $h = gc C:\hosts.txt
 $h > C:\Windows\System32\Drivers\etc\hosts
 cd $env:USERPROFILE\AppData\Roaming\Spotify\Apps
-Rename-Item adX.spa adXXXXXXXXXXXXXXXXXXXXXXXXXXXxx.spa
+Rename-Item ad.spa adX.spa
 
 Write-Host -NoNewLine "Completed. Press any key to continue... [Written by Bryan Hernandez]";
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown");
