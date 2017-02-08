@@ -12,7 +12,7 @@ How to use it:
 
 1. (Set Execution-Policy) Open a powershell window as administrator and type the following: 
 
-                       Set-ExecutionPolicy unrestricted
+       Set-ExecutionPolicy unrestricted
 
   Hit enter, type "A" (Without the quotation marks) and hit enter again. Now you can close the powershell window.
 
