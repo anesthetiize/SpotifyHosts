@@ -1,12 +1,12 @@
 # SpotifyHosts
 
 Requirements: 
-
-1. Have the Execution-Policy set to unrestricted in order to run scripts. (Detailed steps below)
-2. Internet Access.
-3. Have the Spotify Windows client installed.
-4. [Optional but recomended] Have a logged in account in the client.
-5. Have the client closed.
+1. Being logged in as an administrator.
+2. Have the Execution-Policy set to unrestricted in order to run scripts. (Detailed steps below)
+3. Internet Access.
+4. Have the Spotify Windows client installed.
+5. [Optional but recomended] Have a logged in account in the client.
+6. Have the client closed.
 
 How to use it:
 
@@ -22,5 +22,6 @@ How to use it:
 
 Known Issues:
 
-1. The script will most likely fail (red words in the blue window) if you try to run it again because of a specific File being renamed, so when ran again, the script will try to rename a file that no longer exists.
-2. You tell me.
+1. The script will most likely fail (red words in the blue window) if you try to run it again because of a specific File being renamed, so when ran again, the script will try to rename a file that no longer exists. (Will fix this in the next days)
+2. If you're logged in, into a not-admin account, the script wont work since it requires admin rights.
+3. You tell me.
