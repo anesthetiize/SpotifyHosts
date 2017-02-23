@@ -1,6 +1,7 @@
 # SpotifyHosts
 
 Requirements: 
+
 1. Being logged in as an administrator.
 2. Have the Execution-Policy set to unrestricted in order to run scripts. (Detailed steps below)
 3. Internet Access.
