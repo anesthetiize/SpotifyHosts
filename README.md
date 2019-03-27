@@ -3,6 +3,9 @@
 >Please note that this script is no longer maintained.
 >If you encounter a problem, feel free to raise an issue but expect delayed responses.
 
+>Linux script: https://github.com/danilotat/SpotifyHosts. 
+>Thanks to danilotat for the bash port.
+
 Requirements: 
 
 1. Being logged in as an administrator.
@@ -29,3 +32,4 @@ Known Issues:
 1. The script will most likely fail (red words in the blue window) if you try to run it again because of a specific File being renamed, so when ran again, the script will try to rename a file that no longer exists.
 2. If you're logged in, into a not-admin account, the script wont work since it requires admin rights.
 3. You tell me.
+
