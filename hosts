@@ -40,8 +40,8 @@
 127.0.0.1 googleads.g.doubleclick.net 
 127.0.0.1 http://www.googleadservices.com 
 127.0.0.1 pagead2.googlesyndication.com 
-127.0.0.1 desktop.spotify.com 127.0.0.1 
-pubads.g.doubleclick.net 
+127.0.0.1 desktop.spotify.com 
+127.0.0.1 pubads.g.doubleclick.net 
 127.0.0.1 audio2.spotify.com
 
 127.0.0.1 pagead46.l.doubleclick.net
